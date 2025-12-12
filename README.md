@@ -55,25 +55,25 @@
 #### Primary Video Tutorial
 
 **Git It? How to use Git and Github** by Fireship  
-Link: https://www.youtube.com/watch?v=HkdAHXoRtos  
-Length: ~12 minutes  
-Covers: What Git is, initializing repos, .gitignore, staging, commits, pushing, pull requests
+- Link: https://www.youtube.com/watch?v=HkdAHXoRtos  
+- Length: ~12 minutes  
+- Covers: What Git is, initializing repos, .gitignore, staging, commits, pushing, pull requests
 
 *Fast-paced overview - watch first to get the big picture.*
 
 #### Deep Dive Tutorial
 
 **Git and GitHub for Beginners - Crash Course** by freeCodeCamp  
-Link: https://www.youtube.com/watch?v=RGOj5yH7evk  
-Length: ~1 hour  
-Covers: Git setup, commands, GitHub workflows, branching, merging, forking
+- Link: https://www.youtube.com/watch?v=RGOj5yH7evk  
+- Length: ~1 hour  
+- Covers: Git setup, commands, GitHub workflows, branching, merging, forking
 
 #### Interactive Practice (Required)
 
 **Learn Git Branching**  
-Link: https://learngitbranching.js.org/  
-Length: 2-4 hours  
-Complete: "Main" levels 1-4 (Introduction Sequence) and "Remote" levels 1-8
+- Link: https://learngitbranching.js.org/  
+- Length: 2-4 hours  
+- Complete: "Main" levels 1-4 (Introduction Sequence) and "Remote" levels 1-8
 
 *Browser-based sandbox that visualizes Git operations. Highly recommended.*
 
@@ -82,16 +82,16 @@ Complete: "Main" levels 1-4 (Introduction Sequence) and "Remote" levels 1-8
 #### Primary Tutorial
 
 **VS Code Official Intro Videos**  
-Link: https://code.visualstudio.com/docs/getstarted/introvideos  
-Length: ~30 minutes total  
-Covers: Setup, editing, productivity tips, themes, extensions, debugging, Git integration
+- Link: https://code.visualstudio.com/docs/getstarted/introvideos  
+- Length: ~30 minutes total  
+- Covers: Setup, editing, productivity tips, themes, extensions, debugging, Git integration
 
 #### Supplemental Video
 
 **VSCode Tutorial For Beginners** by Tech With Tim  
-Link: https://www.youtube.com/watch?v=VqCgcpAypFQ  
-Length: ~30 minutes  
-Covers: Project setup, file explorer, terminal, extensions, settings, Git tools
+- Link: https://www.youtube.com/watch?v=VqCgcpAypFQ  
+- Length: ~30 minutes  
+- Covers: Project setup, file explorer, terminal, extensions, settings, Git tools
 
 #### Essential Extensions to Install
 - **ESLint** - JavaScript/TypeScript linting
@@ -120,7 +120,7 @@ Create your first repository and practice the Git workflow:
 9. Merge the PR into main
 10. Pull the changes back to your local main branch
 
-**Deliverable:** Share the GitHub repo link with your mentor
+**Deliverable:** Share the GitHub repo - Link with your mentor
 
 ### Week 0 Checklist
 
@@ -198,8 +198,8 @@ Create your first repository and practice the Git workflow:
 #### Supplement
 
 **Tailwind CSS Tutorial** (Free - YouTube)  
-Length: ~4 hours  
-Covers: Utility-first CSS, responsive design, component styling
+- Length: ~4 hours  
+- Covers: Utility-first CSS, responsive design, component styling
 
 ### Week 4: Python & Database
 
