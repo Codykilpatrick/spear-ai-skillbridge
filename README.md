@@ -195,17 +195,12 @@ Create your first repository and practice the Git workflow:
 
 **Projects:** Build 3 React applications
 
-#### Supplement
-
-**Tailwind CSS Tutorial** (Free - YouTube)  
-- Length: ~4 hours  
-- Covers: Utility-first CSS, responsive design, component styling
-
 ### Week 4: Python & Database
 
 #### Python Course
 
 **The Complete Python Bootcamp**
+- Link: https://www.udemy.com/course/complete-python-bootcamp/ 
 
 | | |
 |---|---|
@@ -227,6 +222,21 @@ Create your first repository and practice the Git workflow:
 | | |
 |---|---|
 | **Duration** | 15+ hours |
+
+**Instructions:**
+
+1. **Install PostgreSQL on macOS**
+   - Follow the installation guide at: https://neon.com/postgresql/postgresql-getting-started/install-postgresql-macos
+   - This walks you through downloading the installer, running the setup wizard, and loading the sample `dvdrental` database using pgAdmin
+
+2. **Complete Sections 1 & 2 of the PostgreSQL Tutorial**
+   - Tutorial home: https://neon.com/postgresql/tutorial
+   - **Section 1 – Querying Data:**
+   - **Section 2 – Filtering Data:**
+
+3. **Complete the LabEx PostgreSQL Skill Tree**
+   - https://labex.io/skilltrees/postgresql
+   - This is a hands-on, interactive learning path covering SQL fundamentals through advanced topics.
 
 **Coverage:**
 - SQL basics (SELECT, INSERT, UPDATE, DELETE)
