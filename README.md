@@ -28,6 +28,11 @@
 **Duration:** 1 week (before Month 1 begins)  
 **Purpose:** Get all candidates on the same page with tooling, accounts, and version control basics before diving into coursework.
 
+Complete engineering onboarding listed here in Notion. You only need to worry about the following sections:
+- Prerequisites
+- Dev Tools & Apps
+- GitHub
+
 ### Day 1-2: Account Setup & Installations
 
 #### Tasks
