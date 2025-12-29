@@ -154,14 +154,8 @@ Create your first repository and practice the Git workflow:
 #### Primary Course
 
 **NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)**  
-*Instructor: Maximilian Schwarzmüller (Academind)*
-
-| | |
-|---|---|
-| **Cost** | Included in personal plan |
-| **Duration** | 40+ hours |
-| **Last Updated** | November 2025 |
-| **Rating** | 4.6 stars (53,000+ reviews) |
+- Link: https://www.udemy.com/course/nodejs-the-complete-guide/?kw=node&src=sac&couponCode=KEEPLEARNING
+- Length: ~40 hours
 
 **Coverage:**
 - Node.js fundamentals and how it works under the hood
@@ -180,11 +174,8 @@ Create your first repository and practice the Git workflow:
 #### Primary Course
 
 **The Complete React Developer Course**
-
-| | |
-|---|---|
-| **Cost** | Included in personal plan |
-| **Duration** | 40+ hours (actual ~70 hours with practice) |
+- Link: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+- Length: ~70 hours total  
 
 **Coverage:**
 - React fundamentals and component architecture
@@ -201,12 +192,8 @@ Create your first repository and practice the Git workflow:
 
 **The Complete Python Bootcamp**
 - Link: https://www.udemy.com/course/complete-python-bootcamp/ 
-
-| | |
-|---|---|
-| **Cost** | Included in personal plan |
-| **Duration** | 22+ hours |
-
+- Length: ~20 hours total
+  
 **Coverage:**
 - Python fundamentals
 - Type hints and mypy
@@ -218,10 +205,7 @@ Create your first repository and practice the Git workflow:
 #### Database Training
 
 **PostgreSQL Tutorial** (Free)
-
-| | |
-|---|---|
-| **Duration** | 15+ hours |
+- Length: ~20 hours total
 
 **Instructions:**
 
