@@ -297,11 +297,9 @@ Create your first repository and practice the Git workflow:
 #### Primary Course
 
 **Docker Mastery: with Kubernetes + Swarm**
-
-| | |
-|---|---|
-| **Cost** | Included in personal plan |
-| **Duration** | 19+ hours |
+- Link: https://www.udemy.com/course/docker-mastery/
+- Cost: Included in personal plan
+- Duration: 19+ hours
 
 **Coverage:**
 - Docker fundamentals
@@ -315,11 +313,9 @@ Create your first repository and practice the Git workflow:
 #### Primary Course
 
 **AWS Certified Solutions Architect Associate**
-
-| | |
-|---|---|
-| **Cost** | Included in personal plan |
-| **Duration** | 27+ hours |
+- Link: https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/
+- Cost: Included in personal plan
+- Duration: 27+ hours
 
 **Coverage:**
 - AWS services
@@ -331,10 +327,8 @@ Create your first repository and practice the Git workflow:
 #### Supplement
 
 **Terraform Tutorial** (Free - HashiCorp Learn)
-
-| | |
-|---|---|
-| **Duration** | 10+ hours |
+- Link: https://learn.hashicorp.com/terraform
+- Duration: 10+ hours
 
 **Coverage:** Infrastructure as Code principles (easily transferable to Pulumi)
 
