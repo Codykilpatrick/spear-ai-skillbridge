@@ -365,11 +365,9 @@ Create your first repository and practice the Git workflow:
 #### Primary Course
 
 **The Complete Rust Programming Course**
-
-| | |
-|---|---|
-| **Cost** | Included in personal plan |
-| **Duration** | 17.5+ hours |
+- Link: https://www.udemy.com/course/rust-programming-the-complete-guide/
+- Cost: Included in personal plan
+- Duration: 17.5+ hours
 
 **Coverage:**
 - Rust fundamentals
@@ -385,11 +383,9 @@ Create your first repository and practice the Git workflow:
 
 **Rust: The Complete Developer's Guide**  
 *Instructor: Stephen Grider*
-
-| | |
-|---|---|
-| **Cost** | Included in personal plan |
-| **Duration** | Comprehensive |
+- Link: https://www.udemy.com/course/rust-the-complete-developers-guide/
+- Cost: Included in personal plan
+- Duration: Comprehensive
 
 **Coverage:**
 - Advanced Rust concepts
@@ -401,10 +397,8 @@ Create your first repository and practice the Git workflow:
 #### Supplement
 
 **The Rust Programming Language Book** (Free - Official Rust Documentation)
-
-| | |
-|---|---|
-| **Duration** | Self-paced |
+- Link: https://doc.rust-lang.org/book/
+- Duration: Self-paced
 
 **Coverage:** Comprehensive Rust reference and examples
 
@@ -413,11 +407,9 @@ Create your first repository and practice the Git workflow:
 #### Primary Course
 
 **Python Unit Testing Fundamentals (using unittest & pytest)**
-
-| | |
-|---|---|
-| **Cost** | Included in personal plan |
-| **Duration** | Comprehensive |
+- Link: https://www.udemy.com/course/python-unit-testing-fundamentals/
+- Cost: Included in personal plan
+- Duration: Comprehensive
 
 **Coverage:**
 - Unit testing fundamentals
